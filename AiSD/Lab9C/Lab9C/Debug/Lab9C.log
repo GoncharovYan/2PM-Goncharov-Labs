@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Progr\Projects\AiSD\Lab9C\Lab9C\Source.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+D:\Progr\Projects\AiSD\Lab9C\Lab9C\Source.cpp(52): warning C4715: 'Treap::next': not all control paths return a value
+  Lab9C.vcxproj -> D:\Progr\Projects\AiSD\Lab9C\Debug\Lab9C.exe
