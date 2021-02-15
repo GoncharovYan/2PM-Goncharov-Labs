@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\Progr\Projects\AiSD\Lab8C\Lab8C\Source.cpp(118): warning C4715: 'BinaryTree::StepsEnough': not all control paths return a value
-  Lab8C.vcxproj -> D:\Progr\Projects\AiSD\Lab8C\Debug\Lab8C.exe
